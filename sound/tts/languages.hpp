@@ -29,6 +29,7 @@ array<pair<string, string>, 28> const kLanguageList =
   {"cs", "Čeština"},
   {"da", "Dansk"},
   {"el", "Ελληνικά"},
+  {"fa", "فارسی"},
   {"fi", "Suomi"},
   {"hi", "हिंदी"},
   {"hr", "Hrvatski"},
